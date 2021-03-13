@@ -1,0 +1,70 @@
+#school {
+   font-size: 25px;
+}
+
+#motto {
+    font-size: 15px;
+}
+
+p{
+    text-align: center;
+    font-size: 20px;
+}
+
+input
+{
+    font-size: 15px;
+    width: 200px;
+    height: 30px;
+    border-radius: 10px;
+}
+
+#username
+{
+    background-image: url("../img/username.png");
+    background-repeat: no-repeat;
+    text-indent:32px;
+}
+
+#password
+{
+    background-image: url("../img/password.png");
+    background-repeat: no-repeat;
+    text-indent:32px;
+}
+
+#checkword
+{
+    width: 120px; 
+    height: 30px; 
+}
+
+#check
+{
+    width: 70px;
+    height: 30px;
+    background-image: url("../img/checkPicture.png");
+}
+
+#login
+{
+    background-color: aqua;
+}
+
+body
+{
+    text-align: center;
+    background-image: url("../img/backgroud.jpg");
+    background-size:cover;
+}
+
+div
+{
+    width: 250px;
+    height: 300px;
+    border-radius: 25px;
+    padding: 20px;
+    border:2px solid black;
+    margin: 2px auto;
+    background-color: rgba(219, 217, 217, 0.842);
+}
